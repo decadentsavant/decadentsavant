@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @decadentsavant
 - 🌱 I’m currently learning Dart/Flutter
-- 💞️ I’m looking to collaborate on anything that improves my skills. Pay me in experience!
+- 💞️ I’m looking to collaborate on anything that improves my skills. Pay me in experience! (Accepting BAT tips as well!)
 - 📫 Can be reached at [my @ name]@gmail.com
