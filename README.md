@@ -4,7 +4,7 @@
 
 - 📫 I can be reached at decadentsavant @gmail.com
 
-- 👨‍💻 I desire to transition into tech full time!
+- 👨‍💻 Working to transition into tech full time!
 
 ---
 
