@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @decadentsavant
-- 🌱 I’m currently learning Dart/Flutter
+- 👋 Hi, I’m Corey Stewart
+- 🌱 I’m currently enhancing Dart/Flutter skills
 - 💞️ I’m looking to collaborate on anything that improves my skills. Will work for experience!
-- 📫 Can be reached at (no brackets)[decadentsavant]@gmail.com
+- 📫 Can be reached at decadentsavant @gmail.com
