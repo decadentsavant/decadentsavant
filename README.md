@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently enhancing my Dart/Flutter skills
 
-- 📫 I can be reached at decadentsavant @t gmail.com
+- 📫 I can be reached at corey.stewart @t mostlearned.com
 
 - 👨‍💻 Working to transition into tech full time!
 
