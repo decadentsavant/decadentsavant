@@ -10,4 +10,4 @@
 
 I began learning Dart/Flutter simply as a hobby to create a mobile application I wanted for myself. 
 
-A year later, I've fallen in love with experience and have almost entirely replaced Netflix with Youtube tutorials.
+A year later, I'm consumed with the development experience (I've almost entirely replaced Netflix with Youtube tutorials!).
