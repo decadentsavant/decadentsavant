@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Corey Stewart!
 
-- 🌱 I’m currently enhancing my Dart/Flutter skills
+- 🌱 Cut my teeth on Dart & Flutter. Currently, perfecting HTML/CSS/JS, React, Next.js
 
 - 📫 I can be reached at corey.stewart @t mostlearned.com
 
