@@ -1,8 +1,10 @@
 # 👋 Hi, I’m Corey Stewart 
 
-- 📺 I've almost entirely replaced Netflix with Youtube tutorials
+- 📺 I've almost entirely replaced Youtube tutorials with AI
 
-- 🦷 Cut my teeth on Dart & Flutter. Pivoted to HTML/CSS/JS, React, Next.js, Astro. Mixed in some Linux.
+- 🦷 Cut my teeth on Dart & Flutter. Pivoted to HTML/CSS/JS, React, Astro.
+
+- ❄️ I used Arch, btw. NixOS these days.
 
 - 📫 I can be reached at corey.stewart @t mostlearned.com
 
