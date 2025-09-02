@@ -1,8 +1,12 @@
 # 👋 Hi, I’m Corey Stewart 
 
-- 🦷 Cut my teeth on Dart & Flutter. Picked up to HTML/CSS/JS, React, Astro and a few others
+- 🦷 Cut my teeth on Dart & Flutter. Have an app in AppStore
+  
+- 💻 Picked up HTML/CSS/JS, React, Astro and a few other skills
 
-- ❄A I used Arch, btw. Omarchy these days.
+- 🛠️ Mostly Mac. Omarchy on 1st gen Surface (I use NeoVim, btw). Run a Debian cloud server (I used Arch, btw).
+
+- Never worked in tech. Maybe some day.
 
 - 📫 I can be reached at corey.stewart @t mostlearned.com
 
